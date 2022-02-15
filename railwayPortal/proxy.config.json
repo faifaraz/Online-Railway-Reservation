@@ -1,0 +1,27 @@
+{
+    "/AdminControls/**": {
+      "target": "http://localhost:8084",
+      "secure": false,
+      "logLevel": "debug"
+  
+    },
+    "/Book/**": {
+      "target": "http://localhost:8084",
+      "secure": false,
+      "logLevel": "debug"
+  
+    },
+    "/adlog/**": {
+      "target": "http://localhost:8084",
+      "secure": false,
+      "logLevel": "debug"
+  
+    },
+    "/secure/**": {
+      "target": "http://localhost:8084",
+      "secure": false,
+      "logLevel": "debug"
+  
+    }
+    
+  }

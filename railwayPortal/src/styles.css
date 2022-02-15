@@ -1,0 +1,19 @@
+@import "~bootstrap/dist/css/bootstrap.min.css";
+
+
+h1 {
+    margin-bottom: 0;
+    background-color: #363945 !important;
+}
+
+.buttons li b {
+    background-color: #363945 !important;
+    color: rgb(238, 230, 230) !important;
+    padding: 20px 101px !important;
+    width: 100% !important;
+    height: 100% !important;
+}
+
+.buttons ul {
+    background-color: rgba(255, 255, 255, 0.616) !important;
+}

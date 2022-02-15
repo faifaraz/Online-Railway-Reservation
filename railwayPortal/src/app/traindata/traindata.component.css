@@ -1,0 +1,38 @@
+h1{
+    text-align: center;
+    vertical-align: center ;
+    color: whitesmoke;
+    font-style:initial;
+    font-size: 70px;
+    padding-bottom: 12px;
+  }
+  .bg {
+      background: rgb(64, 184, 17);
+      background: url(https://images.unsplash.com/photo-1614242990605-9059fbb42191?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1548&q=80);
+      padding-bottom: 35%;
+      background-repeat: no-repeat;
+      background-size: cover;
+      object-fit: cover;
+    }
+    input
+    {
+        margin: 0 15px;
+    }
+    .haa{
+        text-align: right;
+      }
+      .u:hover:not(.active){
+        background-color: rgb(255, 255, 255);
+        color: rgb(10, 10, 10);
+      }
+
+      .row {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .generic-container {
+        margin-top: 100px;
+      }
+
